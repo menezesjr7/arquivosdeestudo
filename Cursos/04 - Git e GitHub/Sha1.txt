@@ -1,0 +1,3 @@
+SHA1(texto.txt)= 3698a7d37a3d0c243205302e967f749a648511fc
+SHA1(texto.txt)= d595afa5f0a4282342506bc7f1106e6acebff53b
+

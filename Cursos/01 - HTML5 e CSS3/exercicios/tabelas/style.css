@@ -1,0 +1,7 @@
+table {
+    border: 1px dashed black;
+}
+
+td,th {
+    border: 1px dashed rgb(190, 190, 190);
+}

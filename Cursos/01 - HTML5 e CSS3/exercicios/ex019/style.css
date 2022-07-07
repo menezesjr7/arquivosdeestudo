@@ -14,5 +14,23 @@ h1#principal{
 }
 
 h2{
+    color: rgb(10, 68, 34);
+}
+
+.basico{
     color: rgb(18, 124, 63);
+    font-weight: bold;
+    background-color: rgba(221, 255, 0, 0.416);
+}
+
+.avancado{
+    color: rgb(124, 106, 18);
+    font-weight: bold;
+    background-color: rgba(221, 255, 0, 0.416);
+}
+
+.intermediario{
+    color: rgb(124, 43, 18);
+    font-weight: bold;
+    background-color: rgba(221, 255, 0, 0.416);
 }
